@@ -1,0 +1,12 @@
+--epochs=100
+--batch_size=8
+--seed=2023
+--Dataset=CBIS_DDSM
+--hyper_param1=2
+--lr=0.00001
+--optim=Adam
+--model=AFIMDeepNetmod2
+--n=2
+--afim_pth_trn=G:/Sharda_Code/To send/V6/AFIM/Data/CBIS_DDSM/2_views
+--AFIM_mod_weight=G:/Sharda_Code/To send/V6/AFIM/weights/AFIM_mod_W2.pt
+--afim_mod_eval_hp=True
